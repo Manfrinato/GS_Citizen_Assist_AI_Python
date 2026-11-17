@@ -1,0 +1,113 @@
+
+[
+  {
+"id": 1,
+"categoria": "Educacao",
+"titulo": "Como fazer a inscricao do ENEM",
+"palavras_chave": ["exame", "prova", "enem", "inscricao"],
+"resposta": "A inscrição é realizada pela Página do Participante do ENEM, utilizando uma conta gov.br.",
+"documentos": ["CPF"],
+"onde": "Pagina do estudante",
+"fonte": "https://www.gov.br/pt-br/servicos/fazer-o-exame-nacional-do-ensino-medio",
+"verificado_em": "2026-11-17"
+  },
+   {
+"id": 2,
+"categoria": "Educacao",
+"titulo": "Como funciona o PROUNI",
+"palavras_chave": ["Particular", "bolsa", "prouni", "Universidade"],
+"resposta": "O Prouni oferece bolsas em instituições privadas de ensino superior para brasileiros sem diploma universitário, com seleção baseada no desempenho no Enem. É necessário obter média mínima de 450 pontos nas cinco provas e nota acima de zero na redação.",
+"documentos": ["Documento com foto", "CPF","Certidão de Nascimento ou Casamento"],
+"onde": "Precisa acessar SisProuni",
+"fonte": "https://acessounico.mec.gov.br/prouni",
+"verificado_em": "2026-11-17"
+  },
+   {
+"id": 3,
+"categoria": "Educacao",
+"titulo": "Como solicitar o FIES?",
+"palavras_chave": ["Fies", "solicitar", "obter", "Financiamento "],
+"resposta": "O acesso é feito pelo Portal Único de Acesso ao Ensino Superior. Para participar, é necessário ter uma conta gov.br e atender aos requisitos do programa.",
+"documentos": ["Documento com foto", "CPF","Certidão de Nascimento ou Casamento"],
+"onde": "Web:Portal Único de Acesso ao Ensino Superior",
+"fonte": "https://www.gov.br/pt-br/servicos/obter-financiamento-do-fiesi",
+"verificado_em": "2026-11-17"
+  },
+   {
+"id": 4,
+"categoria": "Educacao",
+"titulo": "Como obter a declaração de matrícula",
+"palavras_chave": ["aluno", "matricula", "declaração"],
+"resposta": "A Declaração de Matrícula de Aluno pode ser solicitada pelo portal gov.br.",
+"documentos": ["CPF"],
+"onde": "Web:gov.br",
+"fonte": "https://www.gov.br/pt-br/servicos-estaduais/servico_estadual?id=14536",
+"verificado_em": "2026-11-17"
+  },
+   {
+"id": 5,
+"categoria": "Trabalho",
+"titulo": "Como fazer a Carteira de Trabalho Digital",
+"palavras_chave": ["Carteira", "Trabalho", "Digital"],
+"resposta": "Para obter a Carteira de Trabalho Digital, você precisa do número do CPF e criar uma conta autenticada no gov.br. O atendimento é imediato através do aplicativo para Android ou iOS e também pelo formulário disponível no site do Ministério do Trabalho e Emprego.",
+"documentos": ["CPF"],
+"onde": "Web ou aplicativo movel do gov.br",
+"fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho",
+"verificado_em": "2026-11-17"
+  },
+   {
+"id": 6,
+"categoria": "Trabalho",
+"titulo": "Como participar do programa Jovem Aprendiz",
+"palavras_chave": ["Jovem", "Aprediz", "Profissional"],
+"resposta": "A entidade autorizada deve cadastrar os dados dos aprendizes ativos nos cursos aprovados e nas suas filiais, se forem escolas técnicas públicas.",
+"documentos": ["Documento com foto", "CPF","CNPJ"],
+"onde": "Web:gov.br",
+"fonte": "https://www.gov.br/pt-br/servicos/realizar-cadastro-dos-aprendizes",
+"verificado_em": "2026-11-17"
+  },
+   {
+"id": 7,
+"categoria": "Trabalho",
+"titulo": "Como consultar o PIS",
+"palavras_chave": ["pis", "consultar", "valor","falecido"],
+"resposta": "Para consultar o saldo do cotista, faça login e o valor aparecerá automaticamente. Para falecido, informe o PIS/PASEP",
+"documentos": ["CPF"],
+"onde": "Web:gov.br",
+"fonte": "https://www.gov.br/pt-br/servicos/consultar-saldo-de-cotas-pis-pasep",
+"verificado_em": "2026-11-17"
+  },
+   {
+"id": 8,
+"categoria": "Transporte",
+"titulo": "Como solicitar o Bilhete Único Estudante",
+"palavras_chave": ["bilhete", "único", "estudante", "solicitacao"],
+"resposta": "Informe a sua instituição de ensino que deseja utilizar o Bilhete Único de Estudante no ano vigente 2026. A escola deverá encaminhar os seus dados de matrícula para SPTrans. Após o envio, a solicitação do benefício estará disponível em até três dias úteis;",
+"documentos": ["Documento com foto", "CPF"],
+"onde": "Web:SpTrans.com.br",
+"fonte": "https://estudante.sptrans.com.br",
+"verificado_em": "2026-11-17"
+  },
+   {
+"id": 9,
+"categoria": "Transporte",
+"titulo": "Como consultar o saldo do Bilhete Único",
+"palavras_chave": ["saldo", "bilhete", "carregar", "Universidade"],
+"resposta": "Pelo Portal de Atendimento da SPTrans, acesse o Bilhete Único fazendo login com CPF e senha, ou presencialmente em Postos de Atendimento da SPTrans, ou ainda use os totens de consulta nos terminais de ônibus e estações de metrô/trem.",
+"documentos": ["Documento com foto", "CPF"],
+"onde": "Web:SpTrans.com.br",
+"fonte": "https://atendimento.sptrans.com.br",
+"verificado_em": "2026-11-17"
+  },
+   {
+"id": 10,
+"categoria": "Transporte",
+"titulo": "Como solicitar a segunda via do Bilhete Único",
+"palavras_chave": ["Particular", "bolsa", "prouni", "Universidade"],
+"resposta": "O valor para emissão do Bilhete Único de Estudante é de 7 tarifas vigentes.Na tarifa atual de R$5,30 o valor da emissão do Bilhete Único de Estudante é de R$37,10",
+"documentos": ["Documento com foto", "CPF"],
+"onde": "Web:SpTrans.com.br",
+"fonte": "https://atendimento.sptrans.com.br",
+"verificado_em": "2026-11-17"
+  }
+]
