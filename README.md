@@ -1,6 +1,6 @@
 # GS_Citizen_Assist_AI_Python
 ---
-#Intregrantes:
+# Intregrantes:
 ---
 José Augusto Ribeiro Freire Manfrinato ||
 RM: 571151
