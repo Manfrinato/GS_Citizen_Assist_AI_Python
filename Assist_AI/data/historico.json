@@ -1,0 +1,22 @@
+[
+  {
+    "data": "2026-11-19T04:00:51.268517",
+    "origem": "pergunta",
+    "pergunta": "Como fazer o enem?",
+    "id_orientacao": 1,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 28.6
+  },
+  {
+    "data": "2026-11-19T04:01:04.002141",
+    "origem": "categoria",
+    "pergunta": "",
+    "id_orientacao": 7,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 1.4
+  }
+]
