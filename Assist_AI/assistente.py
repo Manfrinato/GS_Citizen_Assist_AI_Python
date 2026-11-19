@@ -26,7 +26,7 @@ class Assistente:
 
         while True:
             print("Digite [0] para voltar:")
-            pergunta = input("Digite sua duvida").strip()
+            pergunta = input("Digite sua duvida: ").strip()
 
             if pergunta == "0":
                 return
@@ -39,16 +39,17 @@ class Assistente:
                     numeros +=1
             if numeros >= 11 or "@" in pergunta:
                 print("Dados pessoais identificados! Não informe CPF, telefone ou e-mail.")
-                continue
+                break
 
             tentativas += 1
             resultados = self.base.buscar(pergunta)
 
             if not resultados or resultados[0][0] < 3:
-                print("Tenta outra palavra")
+                print("Tenta outra coisa!")
                 ajudou = False
                 orientacao = None
                 encontrou = False
+
             else:
                 pontos, orientacao = resultados[0]
                 encontrou = True
