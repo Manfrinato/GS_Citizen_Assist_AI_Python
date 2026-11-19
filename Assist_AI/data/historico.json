@@ -18,5 +18,15 @@
     "ajudou": true,
     "tentativas": 1,
     "tempo_segundos": 1.4
+  },
+  {
+    "data": "2026-11-19T05:02:04.410143",
+    "origem": "pergunta",
+    "pergunta": "11 9876543",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 9.8
   }
 ]

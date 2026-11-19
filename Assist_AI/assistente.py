@@ -37,6 +37,10 @@ class Assistente:
             for letra in pergunta:
                 if letra.isdigit():
                     numeros +=1
+            if numeros >= 11 or "@" in pergunta:
+                print("Dados pessoais identificados! Não informe CPF, telefone ou e-mail.")
+                continue
+
             tentativas += 1
             resultados = self.base.buscar(pergunta)
 
